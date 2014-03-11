@@ -1,4 +1,4 @@
-package com.grothaus.GamePlay;
+package com.grothaus.gamelogic;
 
 import java.util.ArrayList;
 import java.util.HashMap;

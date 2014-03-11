@@ -1,4 +1,4 @@
-package com.grothaus.GamePlay;
+package com.grothaus.gamelogic;
 
 public class Position {
 	private int x;

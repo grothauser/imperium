@@ -6,9 +6,9 @@ import java.util.ArrayList;
 
 import org.junit.Test;
 
-import com.grothaus.GamePlay.MainGame;
-import com.grothaus.GamePlay.Player;
-import com.grothaus.GamePlay.RessourceField;
+import com.grothaus.gamelogic.MainGame;
+import com.grothaus.gamelogic.Player;
+import com.grothaus.gamelogic.RessourceField;
 
 public class GameTest {
 

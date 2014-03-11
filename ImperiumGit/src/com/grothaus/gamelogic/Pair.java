@@ -1,4 +1,4 @@
-package com.grothaus.GamePlay;
+package com.grothaus.gamelogic;
 
 public class Pair implements Comparable<Pair> {
 	private int x;

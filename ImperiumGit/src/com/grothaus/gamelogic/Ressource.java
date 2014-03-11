@@ -1,4 +1,4 @@
-package com.grothaus.GamePlay;
+package com.grothaus.gamelogic;
 
 public enum Ressource {
 	IRON("Eisen"), WOOD("Holz"), GOLD("Gold"), FOOD("Nahrung"), HORSE("Pferd");
